@@ -4,7 +4,7 @@ This document describes the rules and governance of the project. It is meant to 
 
 * **Team members**: Any members of the private [grafana-team][team] Google group.
 
-* **Maintainers**: Maintainers lead an individual project or parts thereof ([`MAINTAINERS.md`][maintainers.md]).
+* **Maintainers**: Maintainers lead an individual project or parts thereof ([`MAINTAINERS.md`][MAINTAINERS.md]).
 
 * **Projects**: A single repository in the Grafana GitHub organization and listed below is referred to as a project:
   * clock-panel
